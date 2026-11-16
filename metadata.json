@@ -1,0 +1,11 @@
+{
+  "name": "شات عراقيه",
+  "description": "شات_عراقيه_شات_بنوته_شات_ذهب",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
